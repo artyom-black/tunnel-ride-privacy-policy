@@ -1,2 +1,2 @@
 # tunnel-ride-privacy-policy
-Privacy policy for the Tunnel Ride game.
+Privacy-Policy and Terms Of Service.
