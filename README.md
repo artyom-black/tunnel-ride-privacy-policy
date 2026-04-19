@@ -1,2 +1,2 @@
-# tunnel-ride-privacy-policy
+# tunnel-ride
 Privacy-Policy and Terms Of Service.
